@@ -1,4 +1,3 @@
-# The Silver Search Puppet Module for Boxen
 Install [the_silver_searcher](https://github.com/ggreer/the_silver_searcher), a code searching tool similar to ack, with a focus on speed.
 
 ## Usage
