@@ -11,3 +11,5 @@ include the_silver_search
 
 ## Development
 Write code. Run `script/cibuild` to test it. Check the `script` directory for other useful tools.
+
+Version tag: 0.0.2
